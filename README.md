@@ -1,4 +1,4 @@
 ValaShorten
 ===========
 
-Vala URL Shortener
+ValaShorten is a simple Vala URL Shortener, using Koinko.in service.
